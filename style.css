@@ -1,0 +1,25 @@
+body {
+  text-align: center; list-style-position: inside; background-color:#FFFFE8;
+}
+
+ol {
+    font-size: 24px;
+}
+
+ul {
+ font-size: 20px;
+}
+
+li{
+  color: #7B2869;
+}
+
+h1 {
+  font-size :35px;  color: #293462;
+}
+p {
+ color: #AF0171;
+}
+a {
+    font-size: 20px;
+}
